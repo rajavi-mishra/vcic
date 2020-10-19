@@ -380,3 +380,21 @@ nav .navbar-nav .nav-item-active .nav-link {
     z-index: 2;
     padding: 200px;
 }
+#filler-two-about button {
+  color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  background-color: rgba(265, 265, 265, 0.1);
+  margin-bottom: 50px;
+}
+#filler-two-about  button:hover {
+  color: #003262;
+  background-color: #FDB515;
+  font-weight: 500;
+  border-radius: 0;
+  border-width: 3px;
+  border-color: #FDB515;
+  margin-bottom: 50px;
+}
